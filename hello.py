@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 # Python program to print odd Numbers in a List
  
 # list of numbers
